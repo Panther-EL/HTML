@@ -1,0 +1,109 @@
+.stretch{
+        background-color: green;
+        color: white;
+        border: none;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        padding-left: 16px;
+        padding-right: 16px;
+        transition: padding-top 1s,
+        padding-bottom 1s,
+        padding-left 1s,
+        padding-right 1s;
+        cursor: pointer;
+
+
+    }
+    .stretch:hover{
+        padding-top: 18px;
+        padding-bottom: 18px;
+        padding-left: 32px;
+        padding-right: 32px;
+    
+    }
+
+    .shadow{
+        background-color: green;
+        color: white;
+        border: none;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        padding-left: 16px;
+        padding-right: 16px;
+        cursor: pointer;
+        transition: margin-top 1s;
+    }
+
+    
+
+    .shadow:hover{
+        box-shadow:5px 5px 10px rgba(0, 0, 0, 0.15) ;
+        margin-top:5px;
+        
+    }
+
+    .one{
+        background-color: green;
+        color: white;
+        border: none;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        padding-left: 16px;
+        padding-right: 16px;
+        cursor: pointer;
+        transition: padding-left 0.15s;
+        padding-right: 0.15s;
+    }
+
+    .one:hover{
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+
+    .two{
+        background-color: green;
+        color: white;
+        border: none;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        padding-left: 16px;
+        padding-right: 16px;
+        cursor: pointer;
+        transition: padding-left 0.15s;
+        padding-right: 0.15s;
+
+    }
+
+
+.two:hover{
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+
+
+    .three{
+        background-color: green;
+        color: white;
+        border: none;
+        padding-top: 9px;
+        padding-bottom: 9px;
+        padding-left: 16px;
+        padding-right: 16px;
+        cursor: pointer;
+        transition: padding-left 0.15s;
+        padding-right: 0.15s;
+
+    }
+
+    .three:hover{
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+
+.back{
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+    cursor: pointer;
+}
