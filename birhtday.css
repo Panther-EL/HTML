@@ -1,0 +1,107 @@
+.elorm{
+    width: 100px;
+    border-radius: 90px;
+    border: 6px solid #EFB0C9;
+}
+
+.birthday{
+    text-align: center;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+#bday-age{
+    background-color: #EFB0C9;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin: 5px 0 10px 0;
+}
+
+#bday-date{
+    background-color: #EFB0C9;
+    border-radius: 4px;
+    padding: 5px 10px;   
+    margin: 5px 0 10px 0;
+
+}
+
+.gift {
+    width: 300px;
+    height: 300px;
+    background-image: url("pictures/gift.jpg"); 
+    background-size: cover;
+    margin:0 auto;
+    border: 3px solid white;
+    border-radius: 10px;
+}
+
+#first-gift:hover {
+    background-image: url("pictures/Happy Season 5 GIF by The Office.gif");
+    
+     
+}
+
+a{
+    color: white;
+}
+
+#footer{
+    width:400px;
+    margin:40px auto 20px;
+    font-style: italic;
+}
+
+#second-gift:hover{
+    background-image: url("pictures/surprised.gif");
+}
+
+#third-gift:hover{
+    background-image: url("pictures/Timothy\ Olyphant\ GIF\ by\ NETFLIX.gif");
+}
+
+#fourth-gift:hover{
+    background-image: url("pictures/Well\ Done\ Applause\ GIF\ by\ Zypto.gif");
+}
+
+
+
+.gift-section{
+    margin-top: 50px;
+}
+
+.gift-title{
+    margin-bottom: 10px;
+}
+
+.gift-hint{
+    margin-top: 0;
+}
+
+#first-gift:hover{
+    background-image: url("pictures/Happy\ Season\ 5\ GIF\ by\ The\ Office.gif");
+}
+
+#second-gift:hover{
+    background-image: url("pictures/surprised.gif");
+}
+
+
+
+
+
+body{
+    background-color: #a2d2ff;
+    color: white;
+    font-family: "Happy monkey";
+    text-align: center;
+    background: linear-gradient( #a2d2ff, #EFB0C9);
+    
+}
+
+h1, h2, h3, h4{
+    text-shadow:0px 0px 1px black ;
+
+}
